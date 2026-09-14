@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "github.ciluqwq.hidemodded.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+  ],
+  "client": [
+    "client.HideModdedMixin",
+    "client.BrandingControlMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

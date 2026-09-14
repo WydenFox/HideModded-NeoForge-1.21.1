@@ -1,0 +1,9 @@
+{
+  "hidemodded.configuration.title": "Configuración de HideModded",
+  "hidemodded.configuration.hideModded": "Ocultar Estado Modificado",
+  "hidemodded.configuration.hideModded.tooltip": "Oculta el asterisco en la barra de título y '(Modded)' en el menú principal.",
+  "hidemodded.configuration.hideModCounter": "Ocultar Contador de Mods",
+  "hidemodded.configuration.hideModCounter.tooltip": "Oculta el contador de mods (ej. '367 mods cargados') de la marca del menú principal.",
+  "hidemodded.configuration.hideAllBranding": "Ocultar Todas las Marcas",
+  "hidemodded.configuration.hideAllBranding.tooltip": "Oculta todas las líneas de marca de NeoForge en el menú principal, mostrando únicamente el texto vanilla de Minecraft."
+}

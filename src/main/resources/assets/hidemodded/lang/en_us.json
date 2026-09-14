@@ -1,0 +1,9 @@
+{
+  "hidemodded.configuration.title": "HideModded Configuration",
+  "hidemodded.configuration.hideModded": "Hide Modded Status",
+  "hidemodded.configuration.hideModded.tooltip": "Hides the asterisk in the title bar and '(Modded)' in the main menu.",
+  "hidemodded.configuration.hideModCounter": "Hide Mod Counter",
+  "hidemodded.configuration.hideModCounter.tooltip": "Hides the mod counter (e.g. '367 mods loaded') from the main menu branding.",
+  "hidemodded.configuration.hideAllBranding": "Hide All Branding",
+  "hidemodded.configuration.hideAllBranding.tooltip": "Hides all NeoForge branding lines in the main menu, showing only vanilla Minecraft text."
+}
