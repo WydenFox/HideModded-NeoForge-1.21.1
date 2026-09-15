@@ -1,6 +1,6 @@
 # HideModded — NeoForge 1.21.1 Port
 
-> **I did not create this mod.** This is a port of [HideModded](https://github.com/CiLuQwQ/HideModded) and [HideModded-Continued](https://github.com/DavidCGranger/HideModded-Continued) to **NeoForge 1.21.1**. All original credit belongs to the original authors listed below.
+> **I didn't make this mod.** This is a port of [HideModded](https://github.com/CiLuQwQ/HideModded) and [HideModded-Continued](https://github.com/DavidCGranger/HideModded-Continued) for reference to **NeoForge 1.21.1**. All original credit belongs to the original authors listed below.
 
 ---
 
@@ -51,7 +51,6 @@ This port would not exist without the work of:
 |---|---|---|
 | Original mod creator | **CiLuQwQ** | [GitHub](https://github.com/CiLuQwQ/HideModded) · [Modrinth](https://modrinth.com/mod/hidemodded) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/hideasterisk) |
 | HideModded-Continued (NeoForge/Fabric hybrid reference) | **DavidCGranger** | [GitHub](https://github.com/DavidCGranger/HideModded-Continued) |
-| NeoForge 1.21.1 Port | **WydenFox** | *(this repo)* |
 
 ---
 
