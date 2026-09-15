@@ -45,7 +45,7 @@ The resulting JAR will be at `build/libs/hidemodded-1.0.4.jar`.
 
 ## Original Authors & Credits
 
-This port would not exist without the work of:
+This port wouldn't exist without the work of:
 
 | Role | Author | Links |
 |---|---|---|
